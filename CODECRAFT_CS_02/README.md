@@ -1,5 +1,21 @@
 # Pixel Manipulation for Image Encryption
 
+## Table of Contents
+
+- [📖 Project Overview](#-project-overview)
+- [🎯 Project Objective](#-project-objective)
+- [🛠️ Tools and Technologies](#️-tools-and-technologies)
+- [⚙️ Project Implementation](#️-project-implementation)
+  - [Step 1 — Prepare Kali Linux](#step-1--prepare-kali-linux)
+  - [Step 2 — Install and Verify Pillow](#step-2--install-and-verify-pillow)
+  - [Step 3 — Create the Python Program](#step-3--create-the-python-program)
+  - [Step 4 — Add Image Input and Key](#step-4--add-image-input-and-key)
+  - [Step 5 — Read and Manipulate Image Pixels](#step-5--read-and-manipulate-image-pixels)
+  - [Step 6 — Add Encryption and Decryption Options](#step-6--add-encryption-and-decryption-options)
+  - [Step 7 — Encrypt the Image](#step-7--encrypt-the-image)
+  - [Step 8 — Decrypt the Image](#step-8--decrypt-the-image)
+- [✅ Conclusion](#-conclusion)
+
 ## 📖 Project Overview
 
 The **Pixel Manipulation for Image Encryption** project is a Python-based image encryption and decryption application that uses basic pixel manipulation techniques. The program uses the **Pillow** library to read an image, access its individual RGB pixel values, modify those values using an encryption key, and save the resulting image.
