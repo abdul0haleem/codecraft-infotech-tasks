@@ -919,7 +919,7 @@ Compare the decrypted image with the original test image to verify that the encr
 
 The encrypted image was successfully decrypted using the same encryption key. The program reversed the RGB pixel manipulation and generated `decrypted_image.png`. The decrypted image can now be compared with the original image to verify that the encryption and decryption process works correctly.
 
-## Conclusion
+## ✅ Conclusion
 
 The **Pixel Manipulation for Image Encryption** project was successfully completed using Python and the Pillow library. The project demonstrated how an image can be opened, its individual RGB pixel values accessed, and those values modified using a user-defined encryption key.
 
