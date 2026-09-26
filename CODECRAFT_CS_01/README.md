@@ -1,5 +1,16 @@
 # Caesar Cipher Encryption and Decryption Using Python
 
+## Table of Contents
+
+- [📖 Project Overview](#-project-overview)
+- [🎯 Project Objective](#-project-objective)
+- [🛠️ Tools and Technologies](#️-tools-and-technologies)
+- [⚙️ Project Implementation](#️-project-implementation)
+  - [Step 1: Prepare Kali Linux](#step-1-prepare-kali-linux)
+  - [Step 2: Add Encrypt and Decrypt Options](#step-2-add-encrypt-and-decrypt-options)
+  - [Step 3: Add Input Validation, Loop, and Exit Option](#step-3-add-input-validation-loop-and-exit-option)
+- [✅ Conclusion](#-conclusion)
+
 ## 📖 Project Overview
 
 This project involves developing a Python-based Caesar Cipher program that allows users to encrypt and decrypt text using a user-defined shift value.
