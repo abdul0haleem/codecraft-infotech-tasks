@@ -1,5 +1,23 @@
 # Password Complexity Checker
 
+## Table of Contents
+
+- [📖 Project Overview](#-project-overview)
+- [🎯 Project Objective](#-project-objective)
+- [🛠️ Tools and Technologies](#️-tools-and-technologies)
+- [⚙️ Project Implementation](#️-project-implementation)
+  - [Step 1 — Create the Project Directory](#step-1--create-the-project-directory)
+  - [Step 2 — Create the Python File](#step-2--create-the-python-file)
+  - [Step 3 — Take Password Input from the User](#step-3--take-password-input-from-the-user)
+  - [Step 4 — Check Password Length](#step-4--check-password-length)
+  - [Step 5 — Check for Uppercase and Lowercase Letters](#step-5--check-for-uppercase-and-lowercase-letters)
+  - [Step 6 — Check for Numbers and Special Characters](#step-6--check-for-numbers-and-special-characters)
+  - [Step 7 — Calculate the Password Strength Score](#step-7--calculate-the-password-strength-score)
+  - [Step 8 — Determine the Password Strength](#step-8--determine-the-password-strength)
+  - [Step 9 — Provide Feedback for Weak Passwords](#step-9--provide-feedback-for-weak-passwords)
+  - [Step 10 — Test the Password Complexity Checker](#step-10--test-the-password-complexity-checker)
+- [✅ Conclusion](#-conclusion)
+
 ## 📖 Project Overview
 
 The **Password Complexity Checker** project is a Python-based application designed to evaluate the strength and complexity of a user-provided password. The program analyzes the password based on common security requirements such as length, uppercase letters, lowercase letters, numbers, and special characters.
